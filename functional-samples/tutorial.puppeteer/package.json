@@ -2,8 +2,8 @@
   "name": "puppeteer-demo",
   "version": "1.0",
   "dependencies": {
-    "jest": "29.7.0",
-    "puppeteer": "24.9.0"
+    "jest": "30.0.0",
+    "puppeteer": "24.15.0"
   },
   "scripts": {
     "start": "jest ."
