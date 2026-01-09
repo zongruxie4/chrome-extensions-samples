@@ -6,7 +6,7 @@
   },
   "private": true,
   "devDependencies": {
-    "@google/generative-ai": "0.15.0",
+    "@google/generative-ai": "0.24.1",
     "rollup": "4.22.4"
   }
 }
